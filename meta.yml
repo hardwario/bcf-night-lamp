@@ -1,0 +1,14 @@
+article:
+video:
+images:
+  - title:
+    url:
+assembly:
+  - name: BigClown Button Module
+  - name: BigClown Core Module
+  - name: BigClown Mini Battery Module
+  - name: BigClown Encoder Module
+  - name: BigClown Lux Meter Tag
+  - name: BigClown PIR Module
+  - name: BigClown Power Module
+
