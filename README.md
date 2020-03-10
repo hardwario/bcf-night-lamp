@@ -1,11 +1,11 @@
-<a href="https://www.bigclown.com/"><img src="https://bigclown.sirv.com/logo.png" width="200" alt="BigClown Logo" align="right"></a>
+<a href="https://www.hardwario.com/"><img src="https://www.hardwario.com/ci/assets/hw-logo.svg" width="200" alt="HARDWARIO Logo" align="right"></a>
 
 # LED Night Lamp
 
 [![Travis](https://img.shields.io/travis/bigclownlabs/bcf-skeleton/master.svg)](https://travis-ci.org/bigclownlabs/bcf-skeleton)
 [![Release](https://img.shields.io/github/release/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/releases)
 [![License](https://img.shields.io/github/license/bigclownlabs/bcf-skeleton.svg)](https://github.com/bigclownlabs/bcf-skeleton/blob/master/LICENSE)
-[![Twitter](https://img.shields.io/twitter/follow/BigClownLabs.svg?style=social&label=Follow)](https://twitter.com/BigClownLabs)
+[![Twitter](https://img.shields.io/twitter/follow/hardwario_en.svg?style=social&label=Follow)](https://twitter.com/hardwario_en)
 
 This night lamp can be operated alone, but also can be extended by other modules and tags:
 
@@ -17,7 +17,7 @@ This night lamp can be operated alone, but also can be extended by other modules
 
 # Pairing:
 
-1. Use BigClown Playground and flash other Core Module with Radio Button or Radio Motion Detector
+1. Use HARDWARIO Playground and flash other Core Module with Radio Button or Radio Motion Detector
 2. Power on the Night Lamp, pres the button for 3 seconds - the LED Strip turnes RED and LED blinks on Core Module
 3. Remove USB or batteries, wait 5 seconds and connect batteries to the Button or Motion detector
 4. After pairing one module, the red color turns off. Repeat step 2 for adding more devices
@@ -31,7 +31,7 @@ This night lamp can be operated alone, but also can be extended by other modules
 
 If you want to get more information about Core Module, firmware and how to work with it, please follow this link:
 
-**https://www.bigclown.com/doc/firmware/basic-overview/**
+**https://developers.hardwario.com/firmware/basic-overview/**
 
 User's application code (business logic) goes into `app/application.c`.
 The default content works as a *Hello World* example.
